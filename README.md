@@ -6,38 +6,42 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
-<!-- 
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp; -->
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
+
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="css3 logo" title="css3" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+
+<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=#F7DF1E" alt="javascript logo" title="javascript" height="25" /></span>
 &nbsp;
-<!-- <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
-&nbsp; -->
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=TypeScript&logoColor=#3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+
+<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=React&logoColor=#61DAFB" alt="React logo" title="React" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Redux-282C34?logo=Redux&logoColor=#764ABC" alt="Redux logo" title="Redux" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/ReduxSaga-282C34?logo=Redux-Saga&logoColor=#999999" alt="Redux-Saga logo" title="Redux-Saga" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap&logoColor=#7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Tailwind CSS-282C34?logo=Tailwind CSS&logoColor=#06B6D4" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Styled Components-282C34?logo=styled-components&logoColor=#DB7093" alt="styled-components logo" title="styled-components" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/React Hook Form-282C34?logo=React Hook Form&logoColor=#EC5990" alt="React Hook Form logo" title="React Hook Form" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/React Router-282C34?logo=React Router&logoColor=#CA4245" alt="React Router logo" title="React Router" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=GitHub&logoColor=#181717" alt="GitHub logo" title="GitHub" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/GitLab-282C34?logo=GitLab&logoColor=#FC6D26" alt="GitLab logo" title="GitLab" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Vite-282C34?logo=Vite&logoColor=#646CFF" alt="Vite logo" title="Vite" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Axios-282C34?logo=Axios&logoColor=#5A29E4" alt="Axios logo" title="Axios" height="25" /></span>
 &nbsp;
 
 <br>
