@@ -81,6 +81,6 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/henrylenguyen-quotes.svg" width="100%" height="150" alt="henrylenguyen-official" />
+  <img src="svg/henrylenguyen-quotes.svg" width="100%" alt="henrylenguyen-official" />
 </a>
 
