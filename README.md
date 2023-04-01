@@ -31,8 +31,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Styled Components-282C34?logo=styled-components&logoColor=#DB7093" alt="styled-components logo" title="styled-components" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/React Hook Form-282C34?logo=React Hook Form&logoColor=#EC5990" alt="React Hook Form logo" title="React Hook Form" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/React Router-282C34?logo=React Router&logoColor=#CA4245" alt="React Router logo" title="React Router" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/GitHub-282C34?logo=GitHub&logoColor=#181717" alt="GitHub logo" title="GitHub" height="25" /></span>
