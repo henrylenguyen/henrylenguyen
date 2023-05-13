@@ -13,12 +13,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
-
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=#F7DF1E" alt="javascript logo" title="javascript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=TypeScript&logoColor=#3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
-
 <span><img src="https://img.shields.io/badge/NodeJS-282C34?logo=Node.js&logoColor=#339933" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ExpressJS-282C34?logo=Express&logoColor=#000000" alt="Express logo" title="Express" height="25" /></span>
