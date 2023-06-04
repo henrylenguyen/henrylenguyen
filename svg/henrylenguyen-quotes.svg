@@ -9,7 +9,7 @@
 				padding: 0;
 				box-sizing: border-box;
 				width: 100%;
-				height: 400px;
+				height: 230px;
 				background-color: #20232A;
 				border-radius: 10px;
 				color: white;
@@ -20,32 +20,32 @@
 				}
 				.quotes-eng,.quotes-vi{
 				text-align: center;
-				font-size: 18px;
+				font-size: 20px;
 				}
 				.quotes-vi{
 				margin-top: 30px;
+				}
+				.quotes-footer{
+				margin-top: 30px;
+				margin-right: 50px;
+				text-align: right;
 				}
 			</style>
 
 			<div class="container">
         <div class="quotes-eng">
 					<div class="quotes"><br/>
-						Sow a thought, reap an action<br/>
-						Sow an action, reap a habit<br/>
-						Sow a habit, reap a character<br/>
-						Sow a character, reap a destiny<br/>
-            
-						It all starts with just a thought. But the result is a whole life, a whole destin"</div>
+						This world is like a chessboard, so who will be the one to control the game? Is it you
+						or me?</div>
 				</div>
         <div class="quotes-vi">
 					<div>
-						"
-						Gieo suy nghĩ gặt hành động<br/>
-						Gieo hành động gặt thói quen<br/>
-						Gieo thói quen gặt tính cách<br/>
-						Gieo tính cách gặt số phận<br/>
-            
-						Xuất phát chỉ là một suy nghĩ thôi. Nhưng kết quả là cả cuộc đời, cả số phận"
+						Thế giới này tựa như 1 bàn cờ, liệu ai sẽ làm chủ cuộc chơi? Bạn hay là tôi
+					</div>
+				</div>
+				<div class="quotes-footer">
+					<div>
+						___Henry Le Nguyen__
 					</div>
 				</div>
       </div>

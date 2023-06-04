@@ -21,7 +21,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/ExpressJS-282C34?logo=Express&logoColor=#000000" alt="Express logo" title="Express" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Nodemon-282C34?logo=Nodemon&logoColor=#76D04B" alt="Nodemon logo" title="Nodemon" height="25" /></span>
+<span><img src="https://img.shields.io/badge/markdown-282C34?logo=markdown&logoColor=#000000" alt="markdown logo" title="markdown" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/OpenAI-282C34?logo=OpenAI&logoColor=#412991" alt="OpenAI logo" title="OpenAI" height="25" /></span>
 &nbsp;
@@ -29,15 +29,17 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/npm-282C34?logo=npm&logoColor=#CB3837" alt="npm logo" title="npm" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/yarn-282C34?logo=yarn&logoColor=#2C8EBB" alt="yarn logo" title="yarn" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=Firebase&logoColor=#FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Mongodb-282C34?logo=Mongodb&logoColor=#47A248" alt="Mongodb logo" title="Mongodb" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Mongoose-282C34?logo=Mongoose&logoColor=#880000" alt="Mongoose logo" title="Mongoose" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=#880000" alt="MySQL logo" title="MySQL" height="25" /></span>
+<span><img src="https://img.shields.io/badge/React Hook Form-282C34?logo=reacthookform&logoColor=#EC5990" alt="reacthookform logo" title="React Hook Form" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=Microsoft SQL Server&logoColor=#CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
+<span><img src="https://img.shields.io/badge/codepen-282C34?logo=codepen&logoColor=#000000" alt="codepen logo" title="codepen" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=React&logoColor=#61DAFB" alt="React logo" title="React" height="25" /></span>
 &nbsp;
